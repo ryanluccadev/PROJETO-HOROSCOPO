@@ -57,6 +57,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Introdução à Prog
 
 **Ryan Lucca**
 * GitHub: https://github.com/ryanluccadev
+  &&
 **Renan Michelon**
 * GitHub: https://github.com/rcmichelon
 
